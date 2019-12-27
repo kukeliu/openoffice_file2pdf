@@ -1,2 +1,1 @@
-# openoffice_file2pdf
-file convert pdf
+File2pdf 和 Filepdf1中分别引入jobconverter-core-3.0-beta-3.jar,jobconverter-2.2.2.jar这两个包，会冲突

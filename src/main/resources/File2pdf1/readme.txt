@@ -1,0 +1,1 @@
+windows下把startoffice和stopoenoffice放到openoffice的安装目录下的program文件夹双击启动和关闭
